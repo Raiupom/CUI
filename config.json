@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://raw.github.com/Raiupom/CUI/main/README.md",
+  "title": "CUI@Raiupom",
+  "name": "Hong Zha",
+  "ascii": "raiupom",
+  "social": {
+    "github": "Raiupom",
+    "linkedin": "Raiupom"
+  },
+  "email": "rainbow.1st.zha@gmail.com",
+  "ps1_hostname": "raiupom",
+  "ps1_username": "guest",
+  "blog": "https://raiupom.github.io",
+  "resume_url": "https://cyouryuu.github.io/cv-202308.pdf",
+  "donate_urls": {
+    "paypal": "https://paypal.me/raiupom",
+    "patreon": "https://patreon.com/raiupom"
+  },
+  "colors": {
+    "light": {
+      "background": "#FFFFDB",
+      "foreground": "#282a36",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#8B6BB9",
+      "blue": "#67AFC0",
+      "red": "#ff5555"
+    },
+    "dark": {
+      "background": "#282a36",
+      "foreground": "#f8f8f2",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#bd93f9",
+      "blue": "#8be9fd",
+      "red": "#ff5555"
+    }
+  }
+}
